@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vino-costa-com/.github/main/vino-costa.jpg" width="160" alt="@vino_costa" />
+<img src="https://raw.githubusercontent.com/vino-costa-com/.github/main/vino-costa.gif" width="180" alt="@vino_costa" />
 
 # @vino_costa
 
